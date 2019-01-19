@@ -1,8 +1,8 @@
 {
-  "title": "custom",
+  "title": "Custom",
   "rules": [
     {
-      "description": "Change Capslock + I/J/K/L to Arrow Keys",
+      "description": "Change Caps Lock + I/J/K/L to Arrow Keys",
       "manipulators": [
         {
           "from": {
